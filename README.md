@@ -1,3 +1,3 @@
 # Image file
 
-## Does nth just storage for images
+## Just storage for images
